@@ -1,7 +1,20 @@
+INFORMAÇÕES
+⚠️ Esse comando foi feito para / (slash commands).
+
+
+
+
+
+
+
+
+
+
+Código:
 
 $nomention
 
-$var[user;$message[>;usuário]
+$var[user;$findUser[$message[>;usuário]]]
 $var[money;moedas]
 
 <@$authorID>
