@@ -4,7 +4,9 @@ INFORMAÇÕES
 Slash Opções
 → Adicone a seguinte opção ao slash command de atm:
 
-Nome da opção:
+Nome da opção: usuário
+Descrição: (aqui você pode colocar oq vc quiser)
+Tipo de opção: User
 
 
 
