@@ -1,1 +1,12 @@
-...
+
+$nomention
+
+$var[user;$message[>;usuário]
+$var[money;moedas]
+
+<@$authorID>
+
+$autor[Saldo de: $username[$var[user]]#$discriminator[$var[user]]]
+$authorIcon[$userAvatar[$var[user]]
+
+$description[`$usernickname[$var[user]]` tem $getVar[$var[money];$var[user]] money!]
